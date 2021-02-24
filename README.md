@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 
 <h4 align="center"> 
 	🚧  Em construção...  🚧
+</h4>
+	
   
+<img src="https://img.shields.io/static/v1?label=Cristiano&message=Bonifácio&color=blue&style=for-the-badge&logo="/>
