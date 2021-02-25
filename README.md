@@ -2,8 +2,8 @@
 
 <h1 align="center"> 
 	:man_technologist: Hello! I'm Cristiano :vulcan_salute: 
-</h1><h1 align="right">
-<img src="https://user-images.githubusercontent.com/77255300/109230038-f8f2c880-77a2-11eb-9a93-cb2a665c0717.PNG" text-align: right></h1>  
+</h1><h1 align="center">
+<img src="https://user-images.githubusercontent.com/77255300/109230038-f8f2c880-77a2-11eb-9a93-cb2a665c0717.PNG"t></h1>  
 
 [![HitCount](http://hits.dwyl.com/PraSempreWeb/PraSempreWeb.svg)](http://hits.dwyl.com/PraSempreWeb/PraSempreWeb)  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prasempreweb/)](https://www.linkedin.com/in/prasempreweb/)
