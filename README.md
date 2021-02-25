@@ -7,6 +7,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://www.w3schools.com/css/)](https://www.w3schools.com/css/)
 [![Linkedin Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript/)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 [![Linkedin Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&link=https://www.w3schools.com/cpp/default.asp/)](https://www.w3schools.com/cpp/default.asp/) 
+
+
 [![Linkedin Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&link=https://www.w3schools.com/cs/default.asp/)](https://www.w3schools.com/cs/default.asp/) 
 [![Linkedin Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://www.w3schools.com/java/default.asp/)](https://www.w3schools.com/java/default.asp/) 
 [![Linkedin Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&link=https://www.markdownguide.org/basic-syntax//)](https://www.markdownguide.org/basic-syntax/) 
