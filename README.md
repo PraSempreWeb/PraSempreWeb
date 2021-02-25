@@ -1,4 +1,3 @@
-### Fala Devs :vulcan_salute:
 
 
 
