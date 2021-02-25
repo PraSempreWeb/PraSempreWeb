@@ -13,6 +13,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&link=https://code.visualstudio.com//)](https://code.visualstudio.com//) 
 [![Linkedin Badge](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white&link=https://visualstudio.microsoft.com/pt-br/downloads//)](https://visualstudio.microsoft.com/pt-br/downloads//) 
 [![Linkedin Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&link=https://git-scm.com/doc/)](https://git-scm.com/doc/) 
+[![Linkedin Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&link=https://www.w3schools.com/cpp/default.asp)](https://www.w3schools.com/cpp/default.asp) 
+[![Linkedin Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&link=https://www.w3schools.com/cs/default.asp)](https://www.w3schools.com/cs/default.asp)
+[![Linkedin Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://www.w3schools.com/java/default.asp)](https://www.w3schools.com/java/default.asp)
+[![Linkedin Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&link=https://www.w3schools.com/php/default.asp)](https://www.w3schools.com/php/default.asp)
+[![Linkedin Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&link=https://ubuntu.com/download/desktop)](https://ubuntu.com/download/desktop)
+
+
+
+
+
 
 
 
