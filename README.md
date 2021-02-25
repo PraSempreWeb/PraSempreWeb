@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://www.w3schools.com/css/)](https://www.w3schools.com/css/)
 [![Linkedin Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript/)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/) 
 [![Linkedin Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&link=https://www.markdownguide.org/basic-syntax//)](https://www.markdownguide.org/basic-syntax/) 
-[![Linkedin Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://www.w3schools.com/bootstrap/bootstrap_ver.asp/)](https://www.w3schools.com/bootstrap/bootstrap_ver.asp/) 
+[![Linkedin Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://www.w3schools.com/bootstrap/bootstrap_ver.asp)](https://www.w3schools.com/bootstrap/bootstrap_ver.asp) 
 [![Linkedin Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&link=https://dev.mysql.com/doc//)](https://dev.mysql.com/doc//) 
 [![Linkedin Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&link=https://developer.microsoft.com/pt-br/excel/docs/)](https://developer.microsoft.com/pt-br/excel/docs/) 
 [![Linkedin Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&link=https://code.visualstudio.com//)](https://code.visualstudio.com//) 
