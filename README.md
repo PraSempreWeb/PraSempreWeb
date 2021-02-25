@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> 
-	Hello! I'm Cristiano :vulcan_salute:
+	:man_technologist: Hello! I'm Cristiano :vulcan_salute:
 </h1>  
 
 
