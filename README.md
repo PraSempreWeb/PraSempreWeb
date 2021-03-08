@@ -1,8 +1,6 @@
 
 
-<h1 align="center"> 
-	:man_technologist: Hello! I'm Cristiano :vulcan_salute: 
-<h1 align="center">
+
 <img src="https://user-images.githubusercontent.com/77255300/110386984-c452fc80-803f-11eb-93a7-199e16cb2a1d.png"t></h1>  
 
 
