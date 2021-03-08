@@ -1,6 +1,6 @@
 
-<h1><img src="https://user-images.githubusercontent.com/77255300/110386984-c452fc80-803f-11eb-93a7-199e16cb2a1d.png"t></h1>  
 
+![huk](https://user-images.githubusercontent.com/77255300/110386984-c452fc80-803f-11eb-93a7-199e16cb2a1d.png)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prasempreweb/)](https://www.linkedin.com/in/prasempreweb/)
 [![Linkedin Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://https://github.com/PraSempreWeb/)](https://github.com/PraSempreWeb/)  
